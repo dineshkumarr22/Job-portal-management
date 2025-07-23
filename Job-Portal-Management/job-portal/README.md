@@ -137,13 +137,6 @@ npm start
 ---
 
 
-## 👨‍💻 Author
-- **Made with 💙 by Shubham**
-- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-894799290/)
-
----
-
-
 ## 🙌 Contributions
 **Feel free to fork the repo, submit issues, or open a pull request.**
 **Suggestions and contributions are always welcome!**
